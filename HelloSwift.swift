@@ -9,5 +9,5 @@ import Foundation
 func Hello()
 {
     print("Hello World")
-    print("new one")
+    
 }
